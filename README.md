@@ -1,4 +1,4 @@
-# Loja de Games CC Repositorio de projeto feito no inicio da faculdade
+# Loja de Games CC - Repositorio de projeto do inicio da faculdade
 
 Inicialmente sem muitos efeitos visuais e funcionalidades
 mas pode se desenvolver com o tempo e a Experiencia adquirida!
